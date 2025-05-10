@@ -13,4 +13,9 @@ public class Main2 {
             /// ///
         }
     }
+
+    public void m2()
+    {
+
+    }
 }
